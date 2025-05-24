@@ -18,6 +18,8 @@ Chapters:
     -   [Lemmatization](chapters/NLP/Lemmatization)
     -   [Stop Words](chapters/NLP/Stop-words)
     -   [Parts of Speech Tagging](chapters/NLP/POS)
+    -   [Named Entity Recognition](chapters/NLP/NER)
+    -   [Word Embedding](chapters/NLP/Word-embedding)
 -   [Transformers and Attention](chapters/Transformers-Attention)
 -   [Generative AI Techniques](chapters/GenAI-Techniques)
 -   [Practical Tools and Libraries](chapters/Practical-Tools)
