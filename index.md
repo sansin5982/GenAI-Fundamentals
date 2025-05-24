@@ -1,4 +1,4 @@
-# Welcome to Fundamentals of Generative AI!
+# Welcome to the Fundamentals of Generative AI!
 
 Chapters:
 
