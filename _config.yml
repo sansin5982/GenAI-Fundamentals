@@ -1,0 +1,12 @@
+theme: jekyll-theme-cayman
+
+# Navigation (Optional)
+title: "Generative AI Fundamentals"
+description: "Fundamentals of Generative AI."
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+# Enable navigation links
+include:
+  - chapters/
