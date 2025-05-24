@@ -4,6 +4,7 @@
 **Tokenization** is the process of breaking down a **string of text** into **smaller units called tokens**. These tokens can be **words**, **characters**, or **sentences**.
 
 ### 🎯 Why is Tokenization Used in Text Processing?
+
 | Purpose                | Reason                                                             |
 |:---------------------- |:--------------------------------------------------------------------------- |
 | 📦 Structuring Text    | Raw text is messy. Tokenization converts it into structured units.          |
@@ -96,6 +97,7 @@ print(wordpunct_tokenize(paragraph))
     
 
 #### Comparison Table
+
 | Feature                    | `word_tokenize()`                 | `wordpunct_tokenize()`           |
 | -------------------------- | --------------------------------- | -------------------------------- |
 | Handles contractions       | Yes (e.g., “don’t” → “do”, “n’t”) | No (keeps as one word)           |

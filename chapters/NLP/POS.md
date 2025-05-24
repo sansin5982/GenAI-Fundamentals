@@ -15,41 +15,43 @@
 | ✅ Disambiguation             | Differentiates between similar words (e.g., "book" as noun vs verb) |
 
 
-CC coordinating conjunction 
-CD cardinal digit 
-DT determiner 
-EX existential there (like: “there is” … think of it like “there exists”) 
-FW foreign word 
-IN preposition/subordinating conjunction 
-JJ adjective – ‘big’ 
-JJR adjective, comparative – ‘bigger’ 
-JJS adjective, superlative – ‘biggest’ 
-LS list marker 1) 
-MD modal – could, will 
-NN noun, singular ‘- desk’ 
-NNS noun plural – ‘desks’ 
-NNP proper noun, singular – ‘Harrison’ 
-NNPS proper noun, plural – ‘Americans’ 
-PDT predeterminer – ‘all the kids’ 
-POS possessive ending parent’s 
-PRP personal pronoun –  I, he, she 
-PRP$ possessive pronoun – my, his, hers 
-RB adverb – very, silently, 
-RBR adverb, comparative – better 
-RBS adverb, superlative – best 
-RP particle – give up 
-TO – to go ‘to’ the store. 
-UH interjection – errrrrrrrm 
-VB verb, base form – take 
-VBD verb, past tense – took 
-VBG verb, gerund/present participle – taking 
-VBN verb, past participle – taken 
-VBP verb, sing. present, non-3d – take 
-VBZ verb, 3rd person sing. present – takes 
-WDT wh-determiner – which 
-WP wh-pronoun – who, what 
-WP$ possessive wh-pronoun, eg- whose 
-WRB wh-adverb, eg- where, when
+| ABR   | POS Description                                      |
+|:------|:-----------------------------------------------------|
+| CC    | Coordinating conjunction                             |
+| CD    | Cardinal digit                                       |
+| DT    | Determiner                                           |
+| EX    | Existential "there" (e.g., "there is")               |
+| FW    | Foreign word                                         |
+| IN    | Preposition/subordinating conjunction                |
+| JJ    | Adjective (e.g., "big")                              |
+| JJR   | Adjective, comparative (e.g., "bigger")              |
+| JJS   | Adjective, superlative (e.g., "biggest")             |
+| LS    | List marker (e.g., "1)")                             |
+| MD    | Modal (e.g., "could", "will")                        |
+| NN    | Noun, singular (e.g., "desk")                        |
+| NNS   | Noun, plural (e.g., "desks")                         |
+| NNP   | Proper noun, singular (e.g., "Harrison")             |
+| NNPS  | Proper noun, plural (e.g., "Americans")              |
+| PDT   | Predeterminer (e.g., "all the kids")                 |
+| POS   | Possessive ending (e.g., "parent's")                 |
+| PRP   | Personal pronoun (e.g., "I", "he", "she")            |
+| `PRP$`  | Possessive pronoun (e.g., "my", "his", "hers")       |
+| RB    | Adverb (e.g., "very", "silently")                    |
+| RBR   | Adverb, comparative (e.g., "better")                 |
+| RBS   | Adverb, superlative (e.g., "best")                   |
+| RP    | Particle (e.g., "give up")                           |
+| TO    | "To" as in "to go to the store"                      |
+| UH    | Interjection (e.g., "errrrrrrrm")                    |
+| VB    | Verb, base form (e.g., "take")                       |
+| VBD   | Verb, past tense (e.g., "took")                      |
+| VBG   | Verb, gerund/present participle (e.g., "taking")     |
+| VBN   | Verb, past participle (e.g., "taken")                |
+| VBP   | Verb, sing. present, non-3rd person (e.g., "take")   |
+| VBZ   | Verb, 3rd person singular present (e.g., "takes")    |
+| WDT   | Wh-determiner (e.g., "which")                        |
+| WP    | Wh-pronoun (e.g., "who", "what")                     |
+| `WP$`   | Possessive wh-pronoun (e.g., "whose")                |
+| WRB   | Wh-adverb (e.g., "where", "when")                    |
 
 
 ```python

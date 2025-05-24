@@ -7,6 +7,7 @@
 * "better" → "good"
 
 ### 🎯 Why is Lemmatization Used in Text Processing?
+
 | Purpose                     | Description                                            |
 |:--------------------------- |:------------------------------------------------------ |
 | 🧠 Linguistic Accuracy      | Considers the context and part-of-speech               |

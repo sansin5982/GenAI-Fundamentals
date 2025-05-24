@@ -32,6 +32,7 @@ They continue improving their pipeline daily.
 ```
 
 ## 🔍 Explanation of Stemmers
+
 | Stemmer| Description| Pros | Cons                                                        |
 |:------------------- |:----------------|:----|:-------------------------- |
 | **PorterStemmer**   | Classic stemmer developed in 1980. Uses heuristic rules.        | Simple, fast, widely used  | Sometimes too aggressive (e.g., “univers” for “university”) |

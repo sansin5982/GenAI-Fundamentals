@@ -9,6 +9,7 @@ Examples in English:
 These words are usually removed during preprocessing because they **don’t contribute meaningful information** for NLP tasks like classification, clustering, or search.
 
 ### 🎯 Why are Stop Words Used in Text Processing?
+
 | Purpose                      | Explanation                                          |
 | ---------------------------- | ---------------------------------------------------- |
 | 📉 Reduces Dimensionality    | Fewer unique words → faster processing               |

@@ -8,6 +8,7 @@
 * **Date**, **Time**, **Money**, **Percent**, etc.
 
 ### 🎯 Why is NER Used in Text Processing?
+
 | Purpose                   | Explanation                                              |
 |:------------------------- |:-------------------------------------------------------- |
 | 🔍 Information Extraction | Helps extract names, places, events from large documents |
@@ -198,6 +199,7 @@ nltk.ne_chunk(tag_elements).draw()
 ```
 
 ### 🔍 What Happens Internally?
+
 | Step              | Tool/Method                                                | Description |
 |:----------------- |:---------------------------------------------------------- |:----------- |
 | `word_tokenize()` | Tokenizes sentence into words                              |             |
@@ -206,6 +208,7 @@ nltk.ne_chunk(tag_elements).draw()
 
 
 ### 🧠 Common NER Tags in NLTK
+
 | Tag                                | Meaning                           |
 |:---------------------------------- |:--------------------------------- |
 | `PERSON`                           | Names of people                   |
@@ -216,6 +219,7 @@ nltk.ne_chunk(tag_elements).draw()
 | `DATE`, `TIME`, `MONEY`, `PERCENT` | Self-explanatory                  |
 
 ### ✅ Summary
+
 | Feature                 | Why Important                                        |
 |:----------------------- |:---------------------------------------------------- |
 | **NER**                 | Extracts structured information from raw text        |
