@@ -16,6 +16,7 @@ Chapters:
     -   [Tokenization](chapters/NLP/Tokenization)
     -   [Stemming](chapters/NLP/Stemming)
     -   [Lemmatization](chapters/NLP/Lemmatization)
+    -   [Stop Words](chapters/NLP/Stop-words)
 -   [Transformers and Attention](chapters/Transformers-Attention)
 -   [Generative AI Techniques](chapters/GenAI-Techniques)
 -   [Practical Tools and Libraries](chapters/Practical-Tools)
