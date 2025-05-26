@@ -5,6 +5,8 @@
 **Deep Learning** is a subset of **Machine Learning (ML)**, which is
 itself a part of **Artificial Intelligence (AI)**.
 
+------------------------------------------------------------------------
+
 ### Definition
 
 Imagine teaching a child to recognize animals.  
@@ -15,7 +17,9 @@ This is similar to deep learning:
 We feed a computer many examples, and it **learns patterns on its own**,
 especially from raw data like **images, sounds, or text**.
 
-### ⚙️ Technical View
+------------------------------------------------------------------------
+
+### Technical View
 
 Deep learning uses **artificial neural networks** with multiple layers  
 (also called **deep neural networks**) that **mimic how the human brain
@@ -27,7 +31,7 @@ processes information**.
 
 ------------------------------------------------------------------------
 
-### A. Deep Learning in AI
+### Deep Learning in AI
 
 AI = the science of making machines **think or act like humans**.
 
@@ -40,6 +44,8 @@ Deep Learning powers:
 -   Facial recognition
 -   Language translation (Google Translate)
 -   Voice assistants (Alexa, Siri)
+
+------------------------------------------------------------------------
 
 ### Deep Learning in Data Science
 
@@ -241,6 +247,75 @@ before.
 <td>9. Variational Autoencoder (VAE)</td>
 <td>Learns probabilistic representations for generation</td>
 <td>Generating new handwritten digits (MNIST)</td>
+</tr>
+</tbody>
+</table>
+
+## 🆚 Difference Between Machine Learning and Deep Learning
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 35%" />
+<col style="width: 41%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Machine Learning (ML)</th>
+<th>Deep Learning (DL)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Definition</strong></td>
+<td>Subfield of AI where systems learn from data</td>
+<td>Subset of ML using multi-layered neural networks</td>
+</tr>
+<tr>
+<td><strong>Data Dependency</strong></td>
+<td>Works well with small to medium data</td>
+<td>Requires large amounts of data to perform well</td>
+</tr>
+<tr>
+<td><strong>Feature Engineering</strong></td>
+<td>Manual feature selection is crucial</td>
+<td>Learns features automatically from raw data</td>
+</tr>
+<tr>
+<td><strong>Training Time</strong></td>
+<td>Faster training</td>
+<td>Requires longer training time (especially on GPUs)</td>
+</tr>
+<tr>
+<td><strong>Interpretability</strong></td>
+<td>Easier to interpret (e.g., decision trees)</td>
+<td>More like a black box — difficult to interpret</td>
+</tr>
+<tr>
+<td><strong>Hardware Needs</strong></td>
+<td>Can run on standard CPUs</td>
+<td>Requires high-performance GPUs for training</td>
+</tr>
+<tr>
+<td><strong>Examples of Algorithms</strong></td>
+<td>Linear Regression, Decision Trees, SVM, KNN</td>
+<td>CNN, RNN, LSTM, GAN, Transformers</td>
+</tr>
+<tr>
+<td><strong>Best For</strong></td>
+<td>Structured/tabular data</td>
+<td>Unstructured data like images, audio, and text</td>
+</tr>
+<tr>
+<td><strong>Human Involvement</strong></td>
+<td>Requires domain expertise to define features</td>
+<td>Minimal manual intervention once designed</td>
+</tr>
+<tr>
+<td><strong>Application Example</strong></td>
+<td>Predicting housing prices</td>
+<td>Detecting objects in images</td>
 </tr>
 </tbody>
 </table>
