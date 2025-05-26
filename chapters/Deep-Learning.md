@@ -9,9 +9,9 @@ itself a part of **Artificial Intelligence (AI)**.
 
 ### Definition
 
-Imagine teaching a child to recognize animals.  
-You show thousands of pictures of cats, dogs, and birds.  
-Eventually, the child learns what makes a cat a cat.
+Imagine teaching a child to recognize animals. You show thousands of
+pictures of cats, dogs, and birds. Eventually, the child learns what
+makes a cat a cat.
 
 This is similar to deep learning:  
 We feed a computer many examples, and it **learns patterns on its own**,
@@ -101,6 +101,8 @@ music, and code.
 
 Deep Learning enables **GenAI** through advanced neural networks.
 
+------------------------------------------------------------------------
+
 ### GenAI Tools Powered by Deep Learning
 
 <table>
@@ -142,9 +144,10 @@ Deep Learning enables **GenAI** through advanced neural networks.
 
 Example:
 
-Prompt: *“Draw a cat riding a bike in space”*  
-→ DALL·E generates a new, original image — one that never existed
-before.
+Prompt: ***Draw a cat riding a bike in space*** → DALL·E generates a
+new, original image — one that never existed before.
+
+------------------------------------------------------------------------
 
 ## Real-life Examples
 
@@ -186,6 +189,8 @@ before.
 </tr>
 </tbody>
 </table>
+
+------------------------------------------------------------------------
 
 ## Types of Deep Learning Models (with Examples)
 
@@ -251,7 +256,9 @@ before.
 </tbody>
 </table>
 
-## 🆚 Difference Between Machine Learning and Deep Learning
+------------------------------------------------------------------------
+
+## Difference Between Machine Learning and Deep Learning
 
 <table style="width:100%;">
 <colgroup>
@@ -320,6 +327,8 @@ before.
 </tbody>
 </table>
 
+------------------------------------------------------------------------
+
 ## Summary Table
 
 <table>
@@ -349,8 +358,12 @@ before.
 </tbody>
 </table>
 
+------------------------------------------------------------------------
+
 ## Final Analogy
 
 Think of **deep learning like teaching a child**,  
 but one with a **super memory and lightning speed**.  
 With enough examples, it finds patterns — even ones humans miss!
+
+------------------------------------------------------------------------
