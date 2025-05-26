@@ -11,7 +11,7 @@ Chapters:
         Statistics](chapters/Mathematical-Foundations/Probability-Statistics)
     -   [Optimization](chapters/Mathematical-Foundations/Optimization)
 -   [Python](chapters/Python)
--   [Deep Learning](chapters/DL)
+-   [Deep Learning](chapters/Deep-Learning)
 -   [Natural Langauge Programming with NLTK](chapters/NLP)
     -   [Tokenization](chapters/NLP/Tokenization)
     -   [Stemming](chapters/NLP/Stemming)
